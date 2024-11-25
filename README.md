@@ -1,4 +1,5 @@
 **Color Predictor Using Spatial Transformer Networks (STN)**  
+- Collecting data from the internet and then labeling it.
 - Built a deep learning model to predict colors in images, leveraging Spatial Transformer Networks (STN) for dynamic feature localization and alignment.  
 - Preprocessed image data to enhance model training and implemented STN to focus on relevant image regions, improving prediction accuracy.  
 - Utilized frameworks like Pytorch for designing and training the neural network architecture.  
